@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif" alt="">
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Rest APIs with .NET and C#**
 
 - 💬 Ask me about **html, css, javascript,C#,ASP.NET**
 
